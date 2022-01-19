@@ -6,18 +6,16 @@ h1 {
 
 h2 {
   color: black;
-  border: 2px solid #00cec9; 
+  border: 2px solid #d63031; 
   text-align: center;
   text-transform: capitalize;
-  text-decoration: underline;
 }
 
 html {
-  background: url(https://gstatic.gvn360.com/2021/08/Gawr-Gura_-1.jpg);
+  background: url(https://guantanamocity.org/wp-content/uploads/2020/12/background-4k-cuc-dep-cho-hoc-zoom-0.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   
   font-size: 20px;
-  
 }
 
