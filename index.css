@@ -1,7 +1,13 @@
 h2 {
-  color: #0984e3;
+  color: balck;
+  border: 2px solid #e84393; 
 }
 
 html {
-  background: #fd79a8;
+  background: url(https://gstatic.gvn360.com/2021/08/Gawr-Gura_-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  font-size: 20px;
 }
+
